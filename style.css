@@ -11,7 +11,7 @@ html {
     font-size: 1.8rem;
     line-height: 2.5;
     text-align: center;
-    color: rgb(93, 193, 93);
+    color: rgb(193, 93, 93);
     margin: 0;
       
   }
@@ -78,7 +78,7 @@ img {
 }
 @media (max-width: 420px) {
   #headline {
-    font-size: 1.2em;
+    font-size: 1em;
   }
 }
 ul {
