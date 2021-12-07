@@ -78,7 +78,7 @@ img {
 }
 @media (max-width: 380px) {
   #headline {
-    font-size: inherit;
+    font-size: 1rem;
   }
 }
 ul {
