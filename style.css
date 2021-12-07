@@ -78,7 +78,7 @@ img {
 }
 @media (max-width: 380px) {
   #headline {
-    font-size: 1rem;
+    font-size: 1em;
   }
 }
 ul {
